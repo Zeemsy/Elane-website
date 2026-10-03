@@ -1,0 +1,8 @@
+{
+  "name": "Remix ÉLANÉ — Luxury Restaurant",
+  "description": "An elevated dining experience in Lagos, Nigeria. Contemporary cuisine, thoughtfully crafted and beautifully served.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
